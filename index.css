@@ -8,11 +8,16 @@
     border: 1px solid black;
     font-family: 'Roboto Mono';
     max-width: 100%;
+}
+    .menuitem1{
+♦    background-color: blue;
+    }
+  
+  nav a{
+    display: flexbox;
+    width:100%;
     text-align: center;
-  }
-  nav{
-    display: block;
-    width:100% ;
+    margin: 2%;
   }
   .intro{
       background-color: #DDB9A3;
@@ -20,6 +25,25 @@
  
 .headerimage{
     border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 180px;
+  height: 180px;
+  padding: 5%;
+}
+.firepit{
+  width: 7%;
+  height: 7%;
+  justify-content: center;
+  padding: 3%;
+  margin-right: 17%;
+
+}
+.rv{
+  width: 7%;
+  height: 7%;
+  text-align: center;
+}
+.fire{
+  text-align: center;
+  padding: 3%;
+
 }
