@@ -1,0 +1,25 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+*{
+    border: 1px solid black;
+    font-family: 'Roboto Mono';
+    max-width: 100%;
+    text-align: center;
+  }
+  nav{
+    display: block;
+    width:100% ;
+  }
+  .intro{
+      background-color: #DDB9A3;
+  }
+ 
+.headerimage{
+    border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
